@@ -1,0 +1,16 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spiderman:armor_riot_chestplate"
+    },
+    {
+      "item": "spiderman:item_carnage_symbiote"
+    }
+  ],
+  "result": {
+    "item": "spiderman:armor_carnage_chestplate",
+    "count": 1
+  }
+}

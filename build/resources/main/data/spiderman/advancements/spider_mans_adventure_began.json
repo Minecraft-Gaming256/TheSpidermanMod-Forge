@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "spiderman:textures/stone.png",
+    "icon": {
+      "item": "spiderman:armor_spiderman_blue_helmet"
+    },
+    "title": {
+      "translate": "advancements.spider_mans_adventure_began.title"
+    },
+    "description": {
+      "translate": "advancements.spider_mans_adventure_began.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "spider_mans_adventure_began": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

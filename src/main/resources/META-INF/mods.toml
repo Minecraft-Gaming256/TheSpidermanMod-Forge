@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="spiderman"
+version="0.0.2"
+displayName="Spider Man Mod"
+credits="-Made By Codes"
+displayURL="https://www.youtube.com/results?search_query=minecraft-gaming256"
+logoFile="logo.png"
+authors="Minecraft-Gaming256 - Coder"
+description='''
+-Adds Spiderman Stuffs
+'''
+
+[[dependencies.spiderman]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.spiderman]]
+    modId="just_enough_items"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+

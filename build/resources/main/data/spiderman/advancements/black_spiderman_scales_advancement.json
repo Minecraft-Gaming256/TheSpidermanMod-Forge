@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "spiderman:black_spiderman_scales"
+    },
+    "title": {
+      "translate": "advancements.black_spiderman_scales_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.black_spiderman_scales_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "black_spiderman_scales_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "spiderman:black_spiderman_scales",
+            "count": {
+              "min": 1,
+              "max": 9999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "spiderman:blue_spiderman_scales_advancement"
+}

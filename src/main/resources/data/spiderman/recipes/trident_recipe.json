@@ -1,0 +1,36 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "spiderman:venom_fang"
+    },
+    "1": {
+      "item": "spiderman:venom_fang"
+    },
+    "2": {
+      "item": "spiderman:venom_fang"
+    },
+    "3": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "4": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "5": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "7": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "minecraft:trident",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "spiderman:red_spiderman_scales"
+    },
+    "1": {
+      "item": "spiderman:red_spiderman_scales"
+    },
+    "2": {
+      "item": "spiderman:red_spiderman_scales"
+    },
+    "3": {
+      "item": "spiderman:black_spiderman_scales"
+    },
+    "5": {
+      "item": "spiderman:black_spiderman_scales"
+    },
+    "6": {
+      "item": "spiderman:red_spiderman_scales"
+    },
+    "8": {
+      "item": "spiderman:red_spiderman_scales"
+    }
+  },
+  "result": {
+    "item": "spiderman:black_spiderman_armor_leggings",
+    "count": 1
+  }
+}

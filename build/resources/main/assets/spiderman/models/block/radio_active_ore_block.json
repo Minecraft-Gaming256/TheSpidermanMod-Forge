@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spiderman:blocks/radioactiveoreblock",
+    "up": "spiderman:blocks/radioactiveoreblock",
+    "north": "spiderman:blocks/radioactiveoreblock",
+    "east": "spiderman:blocks/radioactiveoreblock",
+    "south": "spiderman:blocks/radioactiveoreblock",
+    "west": "spiderman:blocks/radioactiveoreblock",
+    "particle": "spiderman:blocks/radioactiveoreblock"
+  }
+}

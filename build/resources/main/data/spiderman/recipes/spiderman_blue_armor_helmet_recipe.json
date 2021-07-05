@@ -1,0 +1,32 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_wool"
+    },
+    "1": {
+      "item": "minecraft:red_wool"
+    },
+    "2": {
+      "item": "minecraft:red_wool"
+    },
+    "3": {
+      "tag": "forge:stained_glass_panes"
+    },
+    "4": {
+      "item": "minecraft:red_wool"
+    },
+    "5": {
+      "tag": "forge:stained_glass_panes"
+    }
+  },
+  "result": {
+    "item": "spiderman:spiderman_helmet",
+    "count": 1
+  }
+}

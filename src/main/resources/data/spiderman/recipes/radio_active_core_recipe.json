@@ -1,0 +1,42 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spider_eye"
+    },
+    "1": {
+      "item": "spiderman:radio_active_splat"
+    },
+    "2": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "3": {
+      "item": "minecraft:gunpowder"
+    },
+    "4": {
+      "item": "spiderman:rushed_chiseled_stone_brick"
+    },
+    "5": {
+      "item": "minecraft:gunpowder"
+    },
+    "6": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "7": {
+      "item": "spiderman:radio_active_splat"
+    },
+    "8": {
+      "item": "minecraft:spider_eye"
+    }
+  },
+  "result": {
+    "item": "spiderman:radioactive_core",
+    "count": 1
+  }
+}

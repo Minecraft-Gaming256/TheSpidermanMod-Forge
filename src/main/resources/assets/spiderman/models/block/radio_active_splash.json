@@ -1,0 +1,9 @@
+{
+  "parent": "spiderman:custom/flat",
+  "textures": {
+    "all": "spiderman:blocks/splat",
+    "particle": "spiderman:blocks/splat",
+    "0": "spiderman:blocks/splat",
+    "missing": "spiderman:blocks/splat"
+  }
+}

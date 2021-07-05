@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "spiderman:metal_jar"
+    },
+    "title": {
+      "translate": "advancements.metal_jar_adv.title"
+    },
+    "description": {
+      "translate": "advancements.metal_jar_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "metal_jar_adv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "spiderman:metal_jar",
+            "count": {
+              "min": 1,
+              "max": 9999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "spiderman:spider_mans_adventure_began"
+}

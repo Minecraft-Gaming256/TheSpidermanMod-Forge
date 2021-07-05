@@ -1,0 +1,26 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "spiderman:venom_fang"
+    },
+    "1": {
+      "item": "spiderman:venom_fang_knife"
+    },
+    "2": {
+      "item": "spiderman:item_carnage_symbiote"
+    },
+    "3": {
+      "item": "spiderman:venom_fang"
+    }
+  },
+  "result": {
+    "item": "spiderman:carnages_hand",
+    "count": 1
+  }
+}

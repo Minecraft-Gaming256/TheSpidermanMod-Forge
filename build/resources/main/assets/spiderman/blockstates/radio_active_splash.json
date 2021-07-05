@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "spiderman:block/radio_active_splash"
+    },
+    "facing=east": {
+      "model": "spiderman:block/radio_active_splash",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "spiderman:block/radio_active_splash",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spiderman:block/radio_active_splash",
+      "y": 270
+    }
+  }
+}

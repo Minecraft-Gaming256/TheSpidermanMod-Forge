@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "spiderman:block/radio_active_ore"
+    },
+    "facing=east": {
+      "model": "spiderman:block/radio_active_ore",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "spiderman:block/radio_active_ore",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spiderman:block/radio_active_ore",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "spiderman:block/radio_active_ore",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "spiderman:block/radio_active_ore",
+      "x": 90
+    }
+  }
+}

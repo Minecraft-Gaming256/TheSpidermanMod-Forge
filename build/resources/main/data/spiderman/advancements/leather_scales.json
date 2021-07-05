@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "spiderman:leather_scale"
+    },
+    "title": {
+      "translate": "advancements.leather_scales.title"
+    },
+    "description": {
+      "translate": "advancements.leather_scales.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "leather_scales": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "spiderman:leather_scale",
+            "count": {
+              "min": 1,
+              "max": 9999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "spiderman:spider_mans_adventure_began"
+}

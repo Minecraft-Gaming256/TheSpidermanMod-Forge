@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "spiderman:icon_1"
+    },
+    "title": {
+      "translate": "advancements.spider_sence_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.spider_sence_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "spider_sence_advancement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "spiderman:metal_jar_adv"
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "spiderman:iron_spiderman_armor_helmet"
+    },
+    "title": {
+      "translate": "advancements.tier_four_spiderman.title"
+    },
+    "description": {
+      "translate": "advancements.tier_four_spiderman.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tier_four_spiderman": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 500
+  },
+  "parent": "spiderman:tier_three_spiderman"
+}

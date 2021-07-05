@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "spiderman:blocks/spiderweb",
+    "particle": "spiderman:blocks/spiderweb"
+  }
+}

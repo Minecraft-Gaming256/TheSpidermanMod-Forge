@@ -1,0 +1,32 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "spiderman:red_spiderman_scales"
+    },
+    "1": {
+      "item": "spiderman:red_spiderman_scales"
+    },
+    "2": {
+      "item": "spiderman:red_spiderman_scales"
+    },
+    "3": {
+      "tag": "forge:stained_glass_panes"
+    },
+    "4": {
+      "item": "spiderman:red_spiderman_scales"
+    },
+    "5": {
+      "tag": "forge:stained_glass_panes"
+    }
+  },
+  "result": {
+    "item": "spiderman:armor_spiderman_blue_helmet",
+    "count": 1
+  }
+}

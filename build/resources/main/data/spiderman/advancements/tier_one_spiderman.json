@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "spiderman:spiderman_helmet"
+    },
+    "title": {
+      "translate": "advancements.tier_one_spiderman.title"
+    },
+    "description": {
+      "translate": "advancements.tier_one_spiderman.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tier_one_spiderman": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "spiderman:spider_mans_adventure_began"
+}

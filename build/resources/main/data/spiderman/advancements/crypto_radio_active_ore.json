@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "spiderman:radio_active_ore"
+    },
+    "title": {
+      "translate": "advancements.crypto_radio_active_ore.title"
+    },
+    "description": {
+      "translate": "advancements.crypto_radio_active_ore.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "crypto_radio_active_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "spiderman:radio_active_ore",
+            "count": {
+              "min": 1,
+              "max": 9999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "spiderman:radioactive_advancement"
+}

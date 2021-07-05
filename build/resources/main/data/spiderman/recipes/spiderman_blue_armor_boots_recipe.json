@@ -1,0 +1,26 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_wool"
+    },
+    "2": {
+      "item": "minecraft:red_wool"
+    },
+    "3": {
+      "item": "minecraft:red_wool"
+    },
+    "5": {
+      "item": "minecraft:red_wool"
+    }
+  },
+  "result": {
+    "item": "spiderman:spiderman_boots",
+    "count": 1
+  }
+}

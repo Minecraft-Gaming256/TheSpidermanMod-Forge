@@ -1,0 +1,12 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "spiderman:radio_active_ore_block"
+  },
+  "result": {
+    "item": "spiderman:radio_active_splat"
+  }
+}

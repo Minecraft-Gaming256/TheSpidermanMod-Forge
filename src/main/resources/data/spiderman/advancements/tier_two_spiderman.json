@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "spiderman:armor_spiderman_blue_helmet"
+    },
+    "title": {
+      "translate": "advancements.tier_two_spiderman.title"
+    },
+    "description": {
+      "translate": "advancements.tier_two_spiderman.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tier_two_spiderman": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "spiderman:tier_one_spiderman"
+}

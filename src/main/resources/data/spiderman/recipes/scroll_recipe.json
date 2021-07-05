@@ -1,0 +1,19 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:ender_eye"
+    }
+  ],
+  "result": {
+    "item": "spiderman:scroll",
+    "count": 2
+  }
+}

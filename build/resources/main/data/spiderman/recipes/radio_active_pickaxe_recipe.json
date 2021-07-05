@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "item": "spiderman:radio_active_ore"
+  },
+  "result": {
+    "item": "spiderman:radio_active_pickaxe"
+  }
+}

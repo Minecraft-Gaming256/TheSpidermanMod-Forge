@@ -1,0 +1,19 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:fire_charge"
+    },
+    {
+      "item": "spiderman:scroll"
+    },
+    {
+      "item": "spiderman:crashed_meteor"
+    }
+  ],
+  "result": {
+    "item": "spiderman:crashed_meteor_structure_scroll",
+    "count": 1
+  }
+}

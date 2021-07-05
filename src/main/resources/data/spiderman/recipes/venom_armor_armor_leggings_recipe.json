@@ -1,0 +1,16 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spiderman:item_venom_symbiote"
+    },
+    {
+      "item": "spiderman:armor_spiderman_blue_leggings"
+    }
+  ],
+  "result": {
+    "item": "spiderman:armor_venom_leggings",
+    "count": 1
+  }
+}

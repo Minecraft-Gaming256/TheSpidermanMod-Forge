@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "spiderman:armor_riot_helmet"
+    },
+    "title": {
+      "translate": "advancements.the_riot_spiderman.title"
+    },
+    "description": {
+      "translate": "advancements.the_riot_spiderman.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_riot_spiderman": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1000
+  },
+  "parent": "spiderman:tier_four_spiderman"
+}

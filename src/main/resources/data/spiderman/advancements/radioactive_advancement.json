@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "spiderman:radio_active_splat"
+    },
+    "title": {
+      "translate": "advancements.radioactive_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.radioactive_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "radioactive_advancement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "spiderman:spider_mans_adventure_began"
+}

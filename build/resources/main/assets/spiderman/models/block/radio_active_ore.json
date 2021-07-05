@@ -1,0 +1,8 @@
+{
+  "parent": "spiderman:custom/radioactiveore",
+  "textures": {
+    "all": "spiderman:blocks/radioactiveore",
+    "particle": "spiderman:blocks/radioactiveore",
+    "3": "spiderman:blocks/radioactiveore"
+  }
+}

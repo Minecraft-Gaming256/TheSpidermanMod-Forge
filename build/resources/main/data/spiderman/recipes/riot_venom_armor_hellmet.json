@@ -1,0 +1,16 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spiderman:armor_spiderman_blue_helmet"
+    },
+    {
+      "item": "spiderman:riot_symbiote"
+    }
+  ],
+  "result": {
+    "item": "spiderman:armor_riot_helmet",
+    "count": 1
+  }
+}

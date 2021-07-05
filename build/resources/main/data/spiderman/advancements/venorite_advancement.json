@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "spiderman:venorite_ingot"
+    },
+    "title": {
+      "translate": "advancements.venorite_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.venorite_advancement.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "venorite_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "spiderman:venorite_ingot",
+            "count": {
+              "min": 1,
+              "max": 9999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10000
+  },
+  "parent": "spiderman:symbiote_advancement"
+}

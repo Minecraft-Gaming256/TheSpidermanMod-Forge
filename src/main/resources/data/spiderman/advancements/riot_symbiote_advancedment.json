@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "spiderman:riot_symbiote"
+    },
+    "title": {
+      "translate": "advancements.riot_symbiote_advancedment.title"
+    },
+    "description": {
+      "translate": "advancements.riot_symbiote_advancedment.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "riot_symbiote_advancedment": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "spiderman:riot_symbiote",
+            "count": {
+              "min": 1,
+              "max": 9999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "spiderman:black_spiderman_scales_advancement"
+}

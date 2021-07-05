@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "spiderman:black_spiderman_armor_helmet"
+    },
+    "title": {
+      "translate": "advancements.tier_three_spiderman.title"
+    },
+    "description": {
+      "translate": "advancements.tier_three_spiderman.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tier_three_spiderman": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "spiderman:tier_two_spiderman"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "addition": {
+    "item": "spiderman:venorite_ingot"
+  },
+  "result": {
+    "item": "spiderman:venorite_pickaxe"
+  }
+}

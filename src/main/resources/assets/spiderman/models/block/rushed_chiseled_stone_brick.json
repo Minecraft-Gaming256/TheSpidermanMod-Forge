@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spiderman:blocks/rushedchiseledstonebrick",
+    "up": "spiderman:blocks/rushedchiseledstonebrick",
+    "north": "spiderman:blocks/rushedchiseledstonebrick",
+    "east": "spiderman:blocks/rushedchiseledstonebrick",
+    "south": "spiderman:blocks/rushedchiseledstonebrick",
+    "west": "spiderman:blocks/rushedchiseledstonebrick",
+    "particle": "spiderman:blocks/rushedchiseledstonebrick"
+  }
+}

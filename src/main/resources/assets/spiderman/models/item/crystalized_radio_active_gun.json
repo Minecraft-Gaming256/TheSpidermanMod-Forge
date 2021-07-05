@@ -1,0 +1,7 @@
+{
+  "parent": "spiderman:custom/radioactivegun",
+  "textures": {
+    "2": "spiderman:blocks/radioactivegun",
+    "particle": "spiderman:items/radioactivegun"
+  }
+}

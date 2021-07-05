@@ -1,0 +1,16 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spiderman:black_spiderman_scales"
+    },
+    {
+      "item": "spiderman:armor_spiderman_blue_helmet"
+    }
+  ],
+  "result": {
+    "item": "spiderman:black_spiderman_armor_helmet",
+    "count": 1
+  }
+}

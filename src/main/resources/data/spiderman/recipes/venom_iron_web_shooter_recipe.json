@@ -1,0 +1,16 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spiderman:item_venom_symbiote"
+    },
+    {
+      "item": "spiderman:deleted_mod_element"
+    }
+  ],
+  "result": {
+    "item": "spiderman:deleted_mod_element",
+    "count": 1
+  }
+}

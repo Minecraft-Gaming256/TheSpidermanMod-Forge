@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spiderman:blocks/meteor",
+    "up": "spiderman:blocks/meteor",
+    "north": "spiderman:blocks/meteor",
+    "east": "spiderman:blocks/meteor",
+    "south": "spiderman:blocks/meteor",
+    "west": "spiderman:blocks/meteor",
+    "particle": "spiderman:blocks/meteor"
+  }
+}

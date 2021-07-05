@@ -1,0 +1,42 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "spiderman:leather_scale"
+    },
+    "1": {
+      "item": "spiderman:leather_scale"
+    },
+    "2": {
+      "item": "spiderman:leather_scale"
+    },
+    "3": {
+      "item": "spiderman:leather_scale"
+    },
+    "4": {
+      "item": "minecraft:red_dye"
+    },
+    "5": {
+      "item": "spiderman:leather_scale"
+    },
+    "6": {
+      "item": "spiderman:leather_scale"
+    },
+    "7": {
+      "item": "spiderman:leather_scale"
+    },
+    "8": {
+      "item": "spiderman:leather_scale"
+    }
+  },
+  "result": {
+    "item": "spiderman:red_spiderman_scales",
+    "count": 6
+  }
+}

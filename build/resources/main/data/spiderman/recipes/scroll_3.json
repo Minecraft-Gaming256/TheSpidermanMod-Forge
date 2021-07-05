@@ -1,0 +1,19 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:stone"
+    },
+    {
+      "item": "spiderman:scroll"
+    },
+    {
+      "item": "spiderman:crashed_meteor"
+    }
+  ],
+  "result": {
+    "item": "spiderman:buried_meteor_structure_scroll",
+    "count": 1
+  }
+}

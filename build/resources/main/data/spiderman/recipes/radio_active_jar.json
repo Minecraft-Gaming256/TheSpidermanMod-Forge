@@ -1,0 +1,16 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spiderman:metal_jar"
+    },
+    {
+      "item": "spiderman:radio_active_splat"
+    }
+  ],
+  "result": {
+    "item": "spiderman:radio_active_splash_jar",
+    "count": 1
+  }
+}

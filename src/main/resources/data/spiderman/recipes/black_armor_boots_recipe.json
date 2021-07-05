@@ -1,0 +1,26 @@
+{
+  "group": "spiderman",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "spiderman:black_spiderman_scales"
+    },
+    "2": {
+      "item": "spiderman:black_spiderman_scales"
+    },
+    "3": {
+      "item": "spiderman:red_spiderman_scales"
+    },
+    "5": {
+      "item": "spiderman:red_spiderman_scales"
+    }
+  },
+  "result": {
+    "item": "spiderman:black_spiderman_armor_boots",
+    "count": 1
+  }
+}
